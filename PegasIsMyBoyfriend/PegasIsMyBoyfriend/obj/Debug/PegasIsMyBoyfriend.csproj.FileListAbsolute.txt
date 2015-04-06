@@ -1,0 +1,13 @@
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\PegasIsMyBoyfriend.exe.config
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\PegasIsMyBoyfriend.exe
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\PegasIsMyBoyfriend.pdb
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\LeagueSharp.Common.dll
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\LeagueSharp.dll
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\SharpDX.dll
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\clipper_library.dll
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\LeagueSharp.Sandbox.dll
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\bin\Debug\LeagueSharp.xml
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\obj\Debug\PegasIsMyBoyfriend.exe
+c:\users\radek\documents\visual studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\obj\Debug\PegasIsMyBoyfriend.pdb
+C:\Users\Radek\Documents\Visual Studio 2013\Projects\PegasIsMyBoyfriend\PegasIsMyBoyfriend\obj\Debug\PegasIsMyBoyfriend.csprojResolveAssemblyReference.cache
